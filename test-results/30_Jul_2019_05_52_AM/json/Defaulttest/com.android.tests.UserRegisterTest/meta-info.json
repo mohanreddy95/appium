@@ -1,0 +1,36 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "register",
+        "resultFileName": "Register",
+        "sign": "UserRegisterTest.register()[pri:0, instance:com.android.tests.UserRegisterTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564466442388,
+      "duration": 99250,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "register",
+        "resultFileName": "RegisterqLmOXxUfIv",
+        "sign": "UserRegisterTest.register()[pri:0, instance:com.android.tests.UserRegisterTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564467145390,
+      "duration": 60164,
+      "result": "pass",
+      "passPer": 0.0
+    }
+  ]
+}

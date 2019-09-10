@@ -1,0 +1,13 @@
+amazonselectProduct.shopbycategory.menu=id=web_home_shop_by_department_label
+amazonselectproduct.mens.menu=id=sbdCategory8
+amazonselectproduct.mensfashion.menu=xpath=//android.view.View[12]/android.view.View[3]
+amazonselectproduct.mens.txt=(//android.view.View[@text='Click here to visit icon landing page'])[1]
+amazonselectproduct.Casualshirts.menu=xpath=//android.view.View[@text='Casual shirts']
+amazonselectproduct.shirts.txt=//android.widget.ImageView[@content-desc="Amazon Brand - Symbol Men's Plain Casual Shirt (Combo Pack of 2),image"]
+amazonselectproduct.footwear.txt=//android.view.View[contains(@text,'footwear')and @index=1]
+amazonselectproduct.sportsshoes.txt=//android.view.View[contains(@text,'Sports Shoes')and @index=2]
+amazonselectproduct.watch.txt=//android.view.View[@text='mwat']
+amazonselectproduct.selectwatch.txt=(//android.view.View[@text='Click here to visit icon landing page'])[1]
+amazonselectproduct.selectwomens.txt=(//android.view.View[contains(@text,'Click here to visit icon landing page')])[3]
+amazonselectproduct.selectwomenswatch.txt=(//android.view.View[contains(@text,'watch')])[2]
+amazonselectproduct.selectwatches.txt=(//android.view.View[contains(@text,'Click here to visit icon landing page')])[1]

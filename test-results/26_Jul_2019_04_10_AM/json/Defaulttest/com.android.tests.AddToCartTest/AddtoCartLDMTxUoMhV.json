@@ -1,0 +1,465 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 231
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 41
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 679
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 5394
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 215
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 314
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 2959
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 362
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 218
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 3008
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 260
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 853
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 88
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"8\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6018
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 172
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 859
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 10]",
+      "subLogs": [],
+      "duration": 2239
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 163
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"11\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5914
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 157
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 171
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2152
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Fashion'], using=xpath}"
+      ],
+      "result": "id: 13",
+      "subLogs": [],
+      "duration": 5286
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Fashion']",
+        "{\"id\":\"13\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 752
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 174
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[id: 14]",
+      "subLogs": [],
+      "duration": 628
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 15",
+      "subLogs": [],
+      "duration": 3086
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"15\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 547
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 16",
+      "subLogs": [],
+      "duration": 394
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"16\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 979
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 251
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[id: 17]",
+      "subLogs": [],
+      "duration": 1445
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 18",
+      "subLogs": [],
+      "duration": 5580
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"18\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 33
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 19",
+      "subLogs": [],
+      "duration": 304
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"19\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 281
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 482
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 136
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 159
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "[id: 20, id: 21]",
+      "subLogs": [],
+      "duration": 747
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "id: 22",
+      "subLogs": [],
+      "duration": 159
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 31
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "id: 23",
+      "subLogs": [],
+      "duration": 170
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]",
+        "{\"id\":\"23\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 978
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_9nyh9bg7deq055088.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_125asglr3jn7855089.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_n9jzi9qxgfkx55090.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_8e7fgiyo7b6155091.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1lexgc5v7794f55092.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_laf6c32qe6855093.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

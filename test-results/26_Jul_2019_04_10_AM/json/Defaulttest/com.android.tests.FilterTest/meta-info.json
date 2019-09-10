@@ -1,0 +1,36 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "filter",
+        "resultFileName": "Filter",
+        "sign": "FilterTest.filter()[pri:0, instance:com.android.tests.FilterTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564149182329,
+      "duration": 98405,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "filter",
+        "resultFileName": "FilterScicixAtjJ",
+        "sign": "FilterTest.filter()[pri:0, instance:com.android.tests.FilterTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564149619787,
+      "duration": 98222,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

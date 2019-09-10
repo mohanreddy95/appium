@@ -1,0 +1,230 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "setTimeout",
+      "args": [
+        "{implicit=20000}"
+      ],
+      "result": "null",
+      "subLogs": [],
+      "duration": 7
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 2071
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 313
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 619
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1170
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 1088
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 315
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=register_accordion_header, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 4010
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: register_accordion_header",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 608
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_customer_name, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 1164
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_customer_name",
+        "{\"id\":\"5\",\"value\":[\"mohan\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6512
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_phone_number, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 875
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_phone_number",
+        "{\"id\":\"6\",\"value\":[\"9000000006\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6510
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email, using=id}"
+      ],
+      "result": "id: 7",
+      "subLogs": [],
+      "duration": 1120
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email",
+        "{\"id\":\"7\",\"value\":[\"mohanreddy099098@gmail.com\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 7055
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 731
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"8\",\"value\":[\"mohanreddy\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5747
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[contains(@text,'Welcome')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 997
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[contains(@text,'Welcome')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 339
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=continue, using=id}"
+      ],
+      "result": "id: 10",
+      "subLogs": [],
+      "duration": 1802
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: continue",
+        "{\"id\":\"10\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 716
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=continue, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 20145
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot create register ",
+      "type": "Fail",
+      "screenshot": "../img/Register_tlhzd5cmhbq843339.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user able to create account successfully and it is navigating to mobile veri ",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

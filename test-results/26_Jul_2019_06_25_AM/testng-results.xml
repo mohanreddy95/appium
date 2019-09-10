@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="1" passed="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>user can able to click on skipSignin button <a href="../img/UserLogin_1x0pvpcaf994w9696.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user can able to click on homemenu <a href="../img/UserLogin_9nksj6onifwl9697.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user can able to click on Signin <a href="../img/UserLogin_r0y7jh9f36dh9698.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user enter 10 digits phone number <a href="../img/UserLogin_p0irjfdrw9j39699.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user enter valid user id and password <a href="../img/UserLogin_16byabuz9mzm19700.png" target="_blank">[View Screenshot]</a> </div><div  class="fail"><span class="fail-label">F </span>user canot able to login successfully <a href="../img/UserLogin_17lcg87v2zm8c9701.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+    </line>
+  </reporter-output>
+  <suite name="QAF Demo" duration-ms="100031" started-at="2019-07-26T06:25:10Z" finished-at="2019-07-26T06:26:50Z">
+    <groups>
+    </groups>
+    <test name="java Test" duration-ms="100031" started-at="2019-07-26T06:25:10Z" finished-at="2019-07-26T06:26:50Z">
+      <class name="com.android.tests.UserLoginTest">
+        <test-method status="PASS" signature="setupSuit(org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="setupSuit" is-config="true" duration-ms="18" started-at="2019-07-26T11:55:10Z" finished-at="2019-07-26T11:55:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupSuit -->
+        <test-method status="PASS" signature="setupTest(org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="setupTest" is-config="true" duration-ms="1" started-at="2019-07-26T11:55:10Z" finished-at="2019-07-26T11:55:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="setup" is-config="true" duration-ms="0" started-at="2019-07-26T11:55:10Z" finished-at="2019-07-26T11:55:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="setupMethod(java.lang.reflect.Method, org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="setupMethod" is-config="true" duration-ms="1" started-at="2019-07-26T11:55:10Z" finished-at="2019-07-26T11:55:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.android.tests.UserLoginTest.userLogin()]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupMethod -->
+        <test-method status="FAIL" signature="userLogin()[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="userLogin" duration-ms="93488" started-at="2019-07-26T11:55:10Z" finished-at="2019-07-26T11:56:43Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>user can able to click on skipSignin button <a href="../img/UserLogin_1x0pvpcaf994w9696.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user can able to click on homemenu <a href="../img/UserLogin_9nksj6onifwl9697.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user can able to click on Signin <a href="../img/UserLogin_r0y7jh9f36dh9698.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user enter 10 digits phone number <a href="../img/UserLogin_p0irjfdrw9j39699.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user enter valid user id and password <a href="../img/UserLogin_16byabuz9mzm19700.png" target="_blank">[View Screenshot]</a> </div><div  class="fail"><span class="fail-label">F </span>user canot able to login successfully <a href="../img/UserLogin_17lcg87v2zm8c9701.png" target="_blank">[View Screenshot]</a> </div></div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- userLogin -->
+        <test-method status="PASS" signature="afterClass(org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="afterClass" is-config="true" duration-ms="0" started-at="2019-07-26T11:56:43Z" finished-at="2019-07-26T11:56:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestContext, org.testng.ITestResult)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="afterMethod" is-config="true" duration-ms="0" started-at="2019-07-26T11:56:43Z" finished-at="2019-07-26T11:56:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[[TestResult name=userLogin status=FAILURE method=UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1] output=<div style="display:block;margin-left:10px;"><div  class="pass"><span class="pass-label">P </span>user can able to click on skipSignin button <a href="../img/UserLogin_1x0pvpcaf994w9696.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user can able to click on homemenu <a href="../img/UserLogin_9nksj6onifwl9697.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user can able to click on Signin <a href="../img/UserLogin_r0y7jh9f36dh9698.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user enter 10 digits phone number <a href="../img/UserLogin_p0irjfdrw9j39699.png" target="_blank">[View Screenshot]</a> </div><div  class="pass"><span class="pass-label">P </span>user enter valid user id and password <a href="../img/UserLogin_16byabuz9mzm19700.png" target="_blank">[View Screenshot]</a> </div><div  class="fail"><span class="fail-label">F </span>user canot able to login successfully <a href="../img/UserLogin_17lcg87v2zm8c9701.png" target="_blank">[View Screenshot]</a> </div></div>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest(org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="afterTest" is-config="true" duration-ms="6327" started-at="2019-07-26T11:56:43Z" finished-at="2019-07-26T11:56:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuit(org.testng.ITestContext)[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]" name="afterSuit" is-config="true" duration-ms="24" started-at="2019-07-26T11:56:50Z" finished-at="2019-07-26T11:56:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@32464a14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuit -->
+      </class> <!-- com.android.tests.UserLoginTest -->
+    </test> <!-- java Test -->
+  </suite> <!-- QAF Demo -->
+</testng-results>

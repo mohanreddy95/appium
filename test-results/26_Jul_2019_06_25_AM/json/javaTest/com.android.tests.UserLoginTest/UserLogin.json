@@ -1,0 +1,260 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[id: 1]",
+      "subLogs": [],
+      "duration": 225
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 2",
+      "subLogs": [],
+      "duration": 14
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"2\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 2487
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 3]",
+      "subLogs": [],
+      "duration": 1760
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 4",
+      "subLogs": [],
+      "duration": 317
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"4\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 690
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 5]",
+      "subLogs": [],
+      "duration": 8370
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 53
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 653
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 7",
+      "subLogs": [],
+      "duration": 3454
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"7\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 887
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 8]",
+      "subLogs": [],
+      "duration": 708
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 283
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"9\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 10925
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 10",
+      "subLogs": [],
+      "duration": 850
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"10\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 747
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 11]",
+      "subLogs": [],
+      "duration": 3312
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 205
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"12\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5269
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 13",
+      "subLogs": [],
+      "duration": 633
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"13\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 961
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2573
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user can able to click on skipSignin button",
+      "type": "Pass",
+      "screenshot": "../img/UserLogin_1x0pvpcaf994w9696.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/UserLogin_9nksj6onifwl9697.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/UserLogin_r0y7jh9f36dh9698.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/UserLogin_p0irjfdrw9j39699.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/UserLogin_16byabuz9mzm19700.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/UserLogin_17lcg87v2zm8c9701.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

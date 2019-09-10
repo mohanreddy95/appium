@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 101.755 sec <<< FAILURE!
+userLogin(com.android.tests.UserLoginTest)  Time elapsed: 93.677 sec  <<< FAILURE!
+null

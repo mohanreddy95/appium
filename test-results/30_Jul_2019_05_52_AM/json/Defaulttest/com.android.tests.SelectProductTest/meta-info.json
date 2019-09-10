@@ -1,0 +1,52 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "selectProdect",
+        "resultFileName": "SelectProdect",
+        "sign": "SelectProductTest.selectProdect()[pri:0, instance:com.android.tests.SelectProductTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564467485996,
+      "duration": 64999,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "selectProdect",
+        "resultFileName": "SelectProdectxwbrURgpsY",
+        "sign": "SelectProductTest.selectProdect()[pri:0, instance:com.android.tests.SelectProductTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564467655718,
+      "duration": 61043,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "selectProdect",
+        "resultFileName": "SelectProdectVvKEdEZObu",
+        "sign": "SelectProductTest.selectProdect()[pri:0, instance:com.android.tests.SelectProductTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564468083806,
+      "duration": 59707,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "sorting",
+        "resultFileName": "Sorting",
+        "sign": "SortingTest.sorting()[pri:0, instance:com.android.tests.SortingTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564139003770,
+      "duration": 106341,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "sorting",
+        "resultFileName": "SortinghnoFHbyJfB",
+        "sign": "SortingTest.sorting()[pri:0, instance:com.android.tests.SortingTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564142283575,
+      "duration": 113111,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "sorting",
+        "resultFileName": "SortingOjwRHiDUWx",
+        "sign": "SortingTest.sorting()[pri:0, instance:com.android.tests.SortingTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564143334246,
+      "duration": 116652,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

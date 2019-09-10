@@ -1,0 +1,36 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "searchResults",
+        "resultFileName": "SearchResults",
+        "sign": "CheckSearchResultsTest.searchResults()[pri:0, instance:com.android.tests.CheckSearchResultsTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564379081020,
+      "duration": 79157,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "searchResults",
+        "resultFileName": "SearchResultsfFkhSOZWTN",
+        "sign": "CheckSearchResultsTest.searchResults()[pri:0, instance:com.android.tests.CheckSearchResultsTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564379172536,
+      "duration": 81029,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

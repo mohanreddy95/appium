@@ -1,0 +1,20 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLogin",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@7d0587f1]"
+      },
+      "dependsOn": [],
+      "startTime": 1564122310090,
+      "duration": 93488,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

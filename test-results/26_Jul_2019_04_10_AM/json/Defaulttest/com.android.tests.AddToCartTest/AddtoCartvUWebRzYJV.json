@@ -1,0 +1,588 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 92
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 128
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 656
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 5288
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 45
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 265
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 2495
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 42
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 230
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 2710
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 249
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 756
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 85
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"8\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6013
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 167
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 184
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 10]",
+      "subLogs": [],
+      "duration": 3288
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 90
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"11\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6050
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 116
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 193
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2166
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Fashion'], using=xpath}"
+      ],
+      "result": "id: 13",
+      "subLogs": [],
+      "duration": 3857
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Fashion']",
+        "{\"id\":\"13\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 691
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 192
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[id: 14]",
+      "subLogs": [],
+      "duration": 865
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 15",
+      "subLogs": [],
+      "duration": 3343
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"15\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 79
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 16",
+      "subLogs": [],
+      "duration": 763
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"16\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 887
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 490
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 340
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[id: 17]",
+      "subLogs": [],
+      "duration": 5127
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 18",
+      "subLogs": [],
+      "duration": 324
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"18\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 29
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 19",
+      "subLogs": [],
+      "duration": 232
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"19\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 293
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 41bb5997-9fb0-4d34-b16d-b609ae59f19b\n*** Element info: {Using=xpath, value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]}",
+      "subLogs": [],
+      "duration": 821
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 41bb5997-9fb0-4d34-b16d-b609ae59f19b\n*** Element info: {Using=xpath, value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]}",
+      "subLogs": [],
+      "duration": 170
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 41bb5997-9fb0-4d34-b16d-b609ae59f19b\n*** Element info: {Using=xpath, value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]}",
+      "subLogs": [],
+      "duration": 355
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "id: 20",
+      "subLogs": [],
+      "duration": 291
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]",
+        "{\"id\":\"20\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 846
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Medium'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 443
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Medium'], using=xpath}"
+      ],
+      "result": "[id: 21]",
+      "subLogs": [],
+      "duration": 1934
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[@text='Medium'], using=xpath}"
+      ],
+      "result": "id: 22",
+      "subLogs": [],
+      "duration": 606
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[@text='Medium']",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 3192
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2124
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 23]",
+      "subLogs": [],
+      "duration": 837
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "id: 24",
+      "subLogs": [],
+      "duration": 708
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[@text='Add to Cart']",
+        "{\"id\":\"24\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 3163
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_cart_image, using=id}"
+      ],
+      "result": "id: 25",
+      "subLogs": [],
+      "duration": 232
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_cart_image",
+        "{\"id\":\"25\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 3185
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 141
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_qbkv8aic9zwq6733.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1rwwistlmanj86734.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1cqqrpi8iahb16735.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_hwozvl4f2r4r6736.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_7k1g8qzy5waa6737.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_vzw1ble6z6kd6738.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.xpath: //android.widget.Button[@text='Medium'] not present : Actual By.xpath: //android.widget.Button[@text='Medium'] not present",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_x6000xxb307u6739.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "clicking on select size options is selecting ",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.xpath: //android.widget.Button[@text='Add to Cart'] not present : Actual By.xpath: //android.widget.Button[@text='Add to Cart'] not present",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_fce5w1n9cwix6740.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "clicking on add to cart button product is successfully adding on cart page",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user cannot able to add a product to addToCart ",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_ll8jxefalkgs6741.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

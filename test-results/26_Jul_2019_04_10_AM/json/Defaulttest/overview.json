@@ -1,0 +1,73 @@
+{
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "classes": [
+    "com.android.tests.AddToCartTest",
+    "com.android.tests.SortingTest",
+    "com.android.tests.FilterTest"
+  ],
+  "envInfo": {
+    "browser-desired-capabilities": {
+      "appActivity": "com.amazon.mShop.home.HomeActivity",
+      "appPackage": "in.amazon.mShop.android.shopping",
+      "automationName": "Appium",
+      "browserName": "",
+      "cssSelectorsEnabled": true,
+      "deviceName": "MWS7N16730000589",
+      "driverClass": "io.appium.java_client.android.AndroidDriver",
+      "javascriptEnabled": "true",
+      "newCommandTimeout": "120",
+      "platformName": "android",
+      "takesScreenshot": true
+    },
+    "browser-actual-capabilities": {
+      "appPackage": "in.amazon.mShop.android.shopping",
+      "deviceScreenSize": "1080x1920",
+      "networkConnectionEnabled": "true",
+      "warnings": "{}",
+      "databaseEnabled": "false",
+      "deviceName": "LC683BK02769",
+      "platform": "LINUX",
+      "deviceUDID": "LC683BK02769",
+      "appActivity": "com.amazon.mShop.home.HomeActivity",
+      "desired": "{appActivity=com.amazon.mShop.home.HomeActivity, appPackage=in.amazon.mShop.android.shopping, driverClass=io.appium.java_client.android.AndroidDriver, newCommandTimeout=120, automationName=Appium, browserName=, takesScreenshot=true, javascriptEnabled=true, platformName=Android, deviceName=MWS7N16730000589, cssSelectorsEnabled=true}",
+      "driverClass": "io.appium.java_client.android.AndroidDriver",
+      "newCommandTimeout": "120",
+      "platformVersion": "6.0",
+      "automationName": "Appium",
+      "locationContextEnabled": "false",
+      "webStorageEnabled": "false",
+      "browserName": "",
+      "takesScreenshot": "true",
+      "deviceModel": "HTC One X9 dual sim",
+      "javascriptEnabled": "true",
+      "deviceManufacturer": "HTC",
+      "platformName": "Android",
+      "cssSelectorsEnabled": "true"
+    },
+    "isfw-build-info": {
+      "qaf-Type": "core",
+      "qaf-Revision": "13",
+      "qaf-Version": "2.1",
+      "qaf-Build-Time": "20-Feb-2018 00:19:29"
+    },
+    "run-parameters": {
+      "baseurl": "http://127.0.0.1:4723/wd/hub",
+      "resources": "resources"
+    },
+    "execution-env-info": {
+      "java.arch": "64",
+      "java.vendor": "Oracle Corporation",
+      "java.version": "1.8.0_201",
+      "os.arch": "amd64",
+      "host": "ICPL13076",
+      "os.name": "Windows 10",
+      "user.name": "Mohanreddy.p",
+      "os.version": "10.0"
+    }
+  },
+  "startTime": 1564127703642,
+  "endTime": 1564149722963
+}

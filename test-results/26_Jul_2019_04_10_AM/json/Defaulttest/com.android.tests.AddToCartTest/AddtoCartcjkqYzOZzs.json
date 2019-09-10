@@ -1,0 +1,363 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 207
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 166
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 746
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 1169
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 107
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 2747
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 5198
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 253
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 212
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 2949
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 276
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 911
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 97
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"8\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 4941
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 227
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1425
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 10]",
+      "subLogs": [],
+      "duration": 2515
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 104
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"11\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5397
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 152
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1746
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 1532
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Fashion'], using=xpath}"
+      ],
+      "result": "id: 13",
+      "subLogs": [],
+      "duration": 893
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Fashion']",
+        "{\"id\":\"13\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1339
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 247
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[id: 14]",
+      "subLogs": [],
+      "duration": 201
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 15",
+      "subLogs": [],
+      "duration": 131
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"15\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 28
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 16",
+      "subLogs": [],
+      "duration": 147
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"16\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 163
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 657
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 171
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 724
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_hamymvmv716e15321.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_wbj18s58ny5215322.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_n69s50yprbh115323.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_zan58c8p1jpl15324.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1czpvsvrqn0yz15325.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_1g4xojlwb4eay15326.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Expected condition failed: Wait time out for By.xpath: //android.view.View[@text='Casual shirts'] to be visible (tried for 3 second(s) with 1000 MILLISECONDS interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:296)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:265)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:514)\r\n\tat com.android.pages.AddToCartPage.addToCart(AddToCartPage.java:80)\r\n\tat com.android.tests.AddToCartTest.addtoCart(AddToCartTest.java:13)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n"
+}

@@ -1,0 +1,350 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 246
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 129
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 111
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 201
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 150
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 224
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 185
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 183
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 180
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 263
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 228
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 148
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 301
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 850
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 165
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 161
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 248
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 166
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 279
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 87
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 108
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 205
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 231
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=skip_sign_in_button}",
+      "subLogs": [],
+      "duration": 310
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 1059
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 311
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 1257
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 39
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 204
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 1819
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 31
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 193
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=login_accordion_header}",
+      "subLogs": [],
+      "duration": 30589
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"-1\"}"
+      ],
+      "result": "Expected condition failed: waiting for presence of element located by: By.id: login_accordion_header (tried for 30 second(s) with 1000 MILLISECONDS interval)",
+      "subLogs": [],
+      "duration": 1011064395
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 38
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/SearchResults_p1c12y8w8atw27912.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/SearchResults_1c2trmw60bstm27913.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/SearchResults_p6t5b2wuugya27914.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Expected condition failed: waiting for presence of element located by: By.id: login_accordion_header (tried for 30 second(s) with 1000 MILLISECONDS interval)\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:296)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:265)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.load(QAFExtendedWebDriver.java:216)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.load(QAFExtendedWebElement.java:299)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.execute(QAFExtendedWebElement.java:250)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)\r\n\tat com.android.pages.UserLoginPage.userLogin(UserLoginPage.java:63)\r\n\tat com.android.pages.SelectProductPage.searchResults(SelectProductPage.java:201)\r\n\tat com.android.tests.CheckSearchResultsTest.searchResults(CheckSearchResultsTest.java:14)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\nCaused by: org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HUAWEI, deviceModel: EVA-L09, deviceName: MWS7N16730000589, deviceScreenSize: 1080x1920, deviceUDID: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: a489611c-975e-4c6d-bfce-648de1f17a36\n*** Element info: {Using=id, value=login_accordion_header}\r\n\tat sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.execute(QAFExtendedWebDriver.java:236)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:322)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:368)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElementById(QAFExtendedWebDriver.java:375)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElementById(QAFExtendedWebDriver.java:1)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:188)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:314)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:171)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.findElement(QAFExtendedWebDriver.java:1)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.findElement(ExpectedConditions.java:895)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:41)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:181)\r\n\tat org.openqa.selenium.support.ui.ExpectedConditions$6.apply(ExpectedConditions.java:178)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:238)\r\n\t... 32 more\r\n"
+}

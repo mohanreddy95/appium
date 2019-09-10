@@ -1,0 +1,68 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLogin",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@3aeaafa6]"
+      },
+      "dependsOn": [],
+      "startTime": 1566885898198,
+      "duration": 47533,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLoginINjOyRLTcg",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@3aeaafa6]"
+      },
+      "dependsOn": [],
+      "startTime": 1566893301783,
+      "duration": 6435,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLoginMnXhsWliGa",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@3aeaafa6]"
+      },
+      "dependsOn": [],
+      "startTime": 1566906133158,
+      "duration": 8729,
+      "result": "skip",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLoginkLOlQyGOao",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@3aeaafa6]"
+      },
+      "dependsOn": [],
+      "startTime": 1566906319489,
+      "duration": 3694,
+      "result": "skip",
+      "passPer": 0.0
+    }
+  ]
+}

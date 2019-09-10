@@ -1,0 +1,13 @@
+{
+  "name": "QAF Demo",
+  "status": "fail",
+  "tests": [
+    "javaTest"
+  ],
+  "total": 1,
+  "pass": 0,
+  "fail": 1,
+  "skip": 0,
+  "startTime": 1564122309993,
+  "endTime": 1564122410698
+}

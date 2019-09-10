@@ -1,0 +1,400 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 217
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 144
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 649
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 7273
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 44
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 262
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 3262
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 43
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 224
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 2844
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 300
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 1020
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 201
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"8\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6121
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 151
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 798
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 10]",
+      "subLogs": [],
+      "duration": 2082
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 395
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"11\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5834
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 152
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 206
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2200
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=rs_search_src_text, using=id}"
+      ],
+      "result": "id: 13",
+      "subLogs": [],
+      "duration": 699
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: rs_search_src_text",
+        "{\"id\":\"13\",\"value\":[\"books\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 18269
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='books under 100 rupees'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 5ed8b98d-4276-4c12-be36-cf9b2026eaa2\n*** Element info: {Using=xpath, value=//android.widget.TextView[@text='books under 100 rupees']}",
+      "subLogs": [],
+      "duration": 130
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='books under 100 rupees'], using=xpath}"
+      ],
+      "result": "id: 14",
+      "subLogs": [],
+      "duration": 633
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='books under 100 rupees']",
+        "{\"id\":\"14\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 317
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 206
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 173
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[id: 15]",
+      "subLogs": [],
+      "duration": 645
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "id: 16",
+      "subLogs": [],
+      "duration": 1440
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Filter']",
+        "{\"id\":\"16\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 72
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "id: 17",
+      "subLogs": [],
+      "duration": 208
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Filter']",
+        "{\"id\":\"17\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 167
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[@content-desc=\"Amazon Prime,image\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 279
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[@content-desc=\"Amazon Prime,image\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 593
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.ImageView[@content-desc=\"Amazon Prime,image\"], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 415
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/Filter_1fma10xib73xn8286.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/Filter_twzrv09nevr58287.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/Filter_14x8jd4lqdzvc8288.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/Filter_1wye2h906c36l8289.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/Filter_xy0jls5klx3o8290.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/Filter_vp15aqnar7o98291.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.TimeoutException: Expected condition failed: Wait time out for By.xpath: //android.widget.ImageView[@content-desc=\"Amazon Prime,image\"] to be visible (tried for 3 second(s) with 1000 MILLISECONDS interval)\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:296)\r\n\tat org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:265)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:514)\r\n\tat com.android.pages.SortingPage.filter(SortingPage.java:86)\r\n\tat com.android.tests.FilterTest.filter(FilterTest.java:14)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n"
+}

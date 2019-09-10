@@ -1,0 +1,9 @@
+sorting.Filter.dropdown=xpath=//android.widget.TextView[@text='Filter']
+sorting.sortBy.btn=xpath=//android.widget.TextView[@text='Sort by']
+sorting.priceLowToHigh.btn=xpath=//android.widget.TextView[@text='Price: Low to High']
+sorting.books.txt=//android.widget.TextView[@text='books under 100 rupees']
+sorting.results.txt=//android.widget.TextView[contains(@text,' Results')]
+
+filter.filter.menu=//android.widget.TextView[@text='Filter']
+filter.format.txt=//android.widget.TextView[@text='Format']
+filter.paperbock.txt=(//android.widget.TextView[@text='Paperback'])[2]

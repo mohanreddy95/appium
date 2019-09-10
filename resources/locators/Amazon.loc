@@ -1,0 +1,30 @@
+welcome.alreadyacustomersignin.btn=id=sign_in_button
+welcome.createnewaccount.btn=id=new_user
+welcome.skipsignin.btn=id=skip_sign_in_button
+welcome.homemenu.menu=id=action_bar_burger_icon
+welcome.signin.txt=id=action_bar_home_logo
+
+amazoncreateaccount.createaccount.rbtn=id=register_accordion_header
+amazoncreateaccount.customername.txt=id=ap_customer_name
+amazoncreateaccount.phonenumber.txt=id=ap_phone_number
+amazoncreateaccount.email.txt=id=ap_email
+amazoncreateaccount.password.txt=id=ap_password
+amazoncreateaccount.continue.btn=id=continue
+amazoncreateaccount.welcome.txt=xpath=//android.view.View[contains(@text,'Welcome')]
+verifymobilenumber.verifymobile.btn=auth-verify-button
+amazonmobilenumber.verifymobile.txt=//android.view.View[@text='Verify mobile number']
+
+amazonlogin.login.rbtn=id=login_accordion_header
+amazonlogin.phonenumberemailid.txt=id=ap_email_login
+amazonlogin.continue.btn.xpath=//android.widget.Button[contains(@text,'Continue')]
+amazonlogin.password.txt=id=ap_password
+amazonlogin.signInSubmit.btn=xpath=//android.widget.Button[contains(@text,'Login')]
+amazonlogin.loginimg.img=(//android.view.View)[1]
+
+amazonsearchbar.search.txt=id=rs_search_src_text
+amazonsearchbar.pickitem.menu=xpath=//android.widget.TextView[@instance=3]
+amazonsearch.selectitem.txt=xpant=//android.widget.ImageView[@content-desc='Red Chief Black Leather Formal Shoes for Men (RC2080 001),image']
+amazonsearch.womensshoes.menu=//android.widget.TextView[@instance=4]
+amazonsearch.pickItem.txt=//android.widget.ImageView[@content-desc="Dwane Slip On,image"]
+amazonsearch.result.txt=//android.view.ViewGroup[@instance=44]
+search.sportsshoes.txt=//android.widget.TextView[@text='Sports Shoes for Men']

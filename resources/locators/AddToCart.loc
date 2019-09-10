@@ -1,0 +1,11 @@
+addtocart.fashions.menu=//android.widget.TextView[@text='Fashion']
+addtocart.newarrivals.menu=//android.view.View[@text='Click here to visit icon landing page' and @instance=12]
+addtocart.casualshits.menu=//android.view.View[@text='Casual shirts']
+addtocart.amazonbrand.txt=//android.widget.ImageView[contains(@content-desc,"Amazon Brand - Symbol Men's")]
+addtocart.size.txt=//android.widget.Button[@text='Medium']
+addtocart.clickaddtocart.btn=//android.widget.Button[@text='Add to Cart']
+addtocart.cartmenu.menu=id=action_bar_cart_image
+addtocart.formalshirts=//android.view.View[@text='FOrmal']
+addtocart.mensformals.txt=//android.widget.ImageView [@content-desc="Amazon Brand - Symbol Men's Formal Shirt,image"]
+addtocart.shirtsize.txt=//android.widget.Button [contains(@text,"39")]
+addtocart.proceedtobuy.btn=a-autoid-0-announce

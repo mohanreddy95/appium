@@ -1,0 +1,36 @@
+{
+  "methods": [
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLogin",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564464047907,
+      "duration": 86877,
+      "result": "fail",
+      "passPer": 0.0
+    },
+    {
+      "index": 1,
+      "type": "test",
+      "args": [],
+      "metaData": {
+        "groups": [],
+        "name": "userLogin",
+        "resultFileName": "UserLoginpJtGIvZPqW",
+        "sign": "UserLoginTest.userLogin()[pri:0, instance:com.android.tests.UserLoginTest@8e24743]"
+      },
+      "dependsOn": [],
+      "startTime": 1564464223733,
+      "duration": 60102,
+      "result": "fail",
+      "passPer": 0.0
+    }
+  ]
+}

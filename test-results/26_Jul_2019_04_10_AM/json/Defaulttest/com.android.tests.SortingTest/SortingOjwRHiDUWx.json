@@ -1,0 +1,609 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 207
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 94
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 584
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 7919
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 292
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 756
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 3047
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 474
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 293
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 2925
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 262
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 762
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 117
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"8\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5775
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 168
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 817
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 10]",
+      "subLogs": [],
+      "duration": 2166
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 83
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"11\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6091
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 184
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 181
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2295
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=rs_search_src_text, using=id}"
+      ],
+      "result": "[id: 13]",
+      "subLogs": [],
+      "duration": 3297
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=rs_search_src_text, using=id}"
+      ],
+      "result": "id: 14",
+      "subLogs": [],
+      "duration": 415
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: rs_search_src_text",
+        "{\"id\":\"14\",\"value\":[\"books\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 15336
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='books under 100 rupees'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 27fa7a06-b875-477e-b432-4331697f0b54\n*** Element info: {Using=xpath, value=//android.widget.TextView[@text='books under 100 rupees']}",
+      "subLogs": [],
+      "duration": 122
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='books under 100 rupees'], using=xpath}"
+      ],
+      "result": "id: 15",
+      "subLogs": [],
+      "duration": 506
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='books under 100 rupees']",
+        "{\"id\":\"15\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 315
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 246
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 181
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[id: 16]",
+      "subLogs": [],
+      "duration": 1971
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "id: 17",
+      "subLogs": [],
+      "duration": 252
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Filter']",
+        "{\"id\":\"17\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 43
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "id: 18",
+      "subLogs": [],
+      "duration": 539
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Filter']",
+        "{\"id\":\"18\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 637
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Sort by'], using=xpath}"
+      ],
+      "result": "[id: 19]",
+      "subLogs": [],
+      "duration": 808
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Sort by'], using=xpath}"
+      ],
+      "result": "[id: 20]",
+      "subLogs": [],
+      "duration": 207
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Sort by'], using=xpath}"
+      ],
+      "result": "id: 21",
+      "subLogs": [],
+      "duration": 227
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Sort by']",
+        "{\"id\":\"21\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 32
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Sort by'], using=xpath}"
+      ],
+      "result": "id: 22",
+      "subLogs": [],
+      "duration": 161
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Sort by']",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 371
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Price: Low to High'], using=xpath}"
+      ],
+      "result": "[id: 23]",
+      "subLogs": [],
+      "duration": 655
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Price: Low to High'], using=xpath}"
+      ],
+      "result": "[id: 24]",
+      "subLogs": [],
+      "duration": 288
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Price: Low to High'], using=xpath}"
+      ],
+      "result": "id: 25",
+      "subLogs": [],
+      "duration": 188
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Price: Low to High']",
+        "{\"id\":\"25\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 33
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Price: Low to High'], using=xpath}"
+      ],
+      "result": "id: 26",
+      "subLogs": [],
+      "duration": 168
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Price: Low to High']",
+        "{\"id\":\"26\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 376
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "[id: 27]",
+      "subLogs": [],
+      "duration": 3555
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "id: 28",
+      "subLogs": [],
+      "duration": 246
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Filter']",
+        "{\"id\":\"28\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 31
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Filter'], using=xpath}"
+      ],
+      "result": "id: 29",
+      "subLogs": [],
+      "duration": 162
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Filter']",
+        "{\"id\":\"29\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 191
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[contains(@text,' Results')], using=xpath}"
+      ],
+      "result": "[id: 30]",
+      "subLogs": [],
+      "duration": 683
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[contains(@text,' Results')], using=xpath}"
+      ],
+      "result": "id: 31",
+      "subLogs": [],
+      "duration": 147
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.widget.TextView[contains(@text,' Results')]",
+        "{\"id\":\"31\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 29
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.TextView[contains(@text,' Results')], using=xpath}"
+      ],
+      "result": "[id: 32]",
+      "subLogs": [],
+      "duration": 182
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/Sorting_pxuzqctcpvzj36381.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_1g90eq31q35nu36382.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_1js9k6k3v6lsy36383.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_pg2dqlt0uohe36384.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_1sbd7g3o3vl8r36385.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/Sorting_dtvrkmnpiqte36386.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "SearchBar is present",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_u7a5a7evwrnt36387.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user is able to click an filter",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_yf2j0dscas0636388.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "sorted",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_148acs4pjtdle36389.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "SearchBar is present",
+      "type": "Pass",
+      "screenshot": "../img/Sorting_pengzo0e4c0p36390.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ]
+}

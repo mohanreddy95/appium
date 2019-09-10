@@ -1,0 +1,932 @@
+{
+  "seleniumLog": [
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 249
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=skip_sign_in_button, using=id}"
+      ],
+      "result": "id: 1",
+      "subLogs": [],
+      "duration": 207
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: skip_sign_in_button",
+        "{\"id\":\"1\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 920
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[id: 2]",
+      "subLogs": [],
+      "duration": 770
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "id: 3",
+      "subLogs": [],
+      "duration": 2389
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_burger_icon",
+        "{\"id\":\"3\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1525
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "[id: 4]",
+      "subLogs": [],
+      "duration": 3115
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_home_logo, using=id}"
+      ],
+      "result": "id: 5",
+      "subLogs": [],
+      "duration": 58
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_home_logo",
+        "{\"id\":\"5\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 204
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=login_accordion_header, using=id}"
+      ],
+      "result": "id: 6",
+      "subLogs": [],
+      "duration": 1521
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: login_accordion_header",
+        "{\"id\":\"6\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 162
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "[id: 7]",
+      "subLogs": [],
+      "duration": 2049
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_email_login, using=id}"
+      ],
+      "result": "id: 8",
+      "subLogs": [],
+      "duration": 102
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_email_login",
+        "{\"id\":\"8\",\"value\":[\"9666154861\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 6015
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Continue')], using=xpath}"
+      ],
+      "result": "id: 9",
+      "subLogs": [],
+      "duration": 136
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Continue')]",
+        "{\"id\":\"9\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 144
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "[id: 10]",
+      "subLogs": [],
+      "duration": 2534
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=ap_password, using=id}"
+      ],
+      "result": "id: 11",
+      "subLogs": [],
+      "duration": 220
+    },
+    {
+      "commandName": "sendKeysToElement",
+      "args": [
+        "By.id: ap_password",
+        "{\"id\":\"11\",\"value\":[\"mohanp\"]}"
+      ],
+      "result": "sendKeysToElement:true",
+      "subLogs": [],
+      "duration": 5900
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[contains(@text,'Login')], using=xpath}"
+      ],
+      "result": "id: 12",
+      "subLogs": [],
+      "duration": 170
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[contains(@text,'Login')]",
+        "{\"id\":\"12\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 176
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=action_bar_burger_icon, using=id}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 2101
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.TextView[@text='Fashion'], using=xpath}"
+      ],
+      "result": "id: 13",
+      "subLogs": [],
+      "duration": 1920
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.TextView[@text='Fashion']",
+        "{\"id\":\"13\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 183
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 867
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 206
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "[id: 14]",
+      "subLogs": [],
+      "duration": 1794
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 15",
+      "subLogs": [],
+      "duration": 497
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"15\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 69
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Click here to visit icon landing page' and @instance=12], using=xpath}"
+      ],
+      "result": "id: 16",
+      "subLogs": [],
+      "duration": 418
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Click here to visit icon landing page' and @instance=12]",
+        "{\"id\":\"16\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 2702
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "[id: 17]",
+      "subLogs": [],
+      "duration": 342
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 18",
+      "subLogs": [],
+      "duration": 245
+    },
+    {
+      "commandName": "isElementDisplayed",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"18\"}"
+      ],
+      "result": "isElementDisplayed:true",
+      "subLogs": [],
+      "duration": 37
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 19",
+      "subLogs": [],
+      "duration": 274
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"19\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1174
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]}",
+      "subLogs": [],
+      "duration": 167
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]}",
+      "subLogs": [],
+      "duration": 284
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]}",
+      "subLogs": [],
+      "duration": 233
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")], using=xpath}"
+      ],
+      "result": "id: 20",
+      "subLogs": [],
+      "duration": 159
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.ImageView[contains(@content-desc,\"Amazon Brand - Symbol Men's\")]",
+        "{\"id\":\"20\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1396
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Medium'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 631
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Medium'], using=xpath}"
+      ],
+      "result": "[id: 21]",
+      "subLogs": [],
+      "duration": 4339
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.widget.Button[@text='Medium'], using=xpath}"
+      ],
+      "result": "id: 22",
+      "subLogs": [],
+      "duration": 1800
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.widget.Button[@text='Medium']",
+        "{\"id\":\"22\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 579
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 23]",
+      "subLogs": [],
+      "duration": 1190
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 24]",
+      "subLogs": [],
+      "duration": 704
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 25]",
+      "subLogs": [],
+      "duration": 776
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 26]",
+      "subLogs": [],
+      "duration": 928
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 27]",
+      "subLogs": [],
+      "duration": 782
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 28]",
+      "subLogs": [],
+      "duration": 1175
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 29]",
+      "subLogs": [],
+      "duration": 2397
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 30]",
+      "subLogs": [],
+      "duration": 642
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 31]",
+      "subLogs": [],
+      "duration": 1181
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 32]",
+      "subLogs": [],
+      "duration": 1072
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 33]",
+      "subLogs": [],
+      "duration": 833
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 34]",
+      "subLogs": [],
+      "duration": 896
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 35]",
+      "subLogs": [],
+      "duration": 942
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 36]",
+      "subLogs": [],
+      "duration": 833
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 37]",
+      "subLogs": [],
+      "duration": 764
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.widget.Button[@text='Add to Cart'], using=xpath}"
+      ],
+      "result": "[id: 38]",
+      "subLogs": [],
+      "duration": 789
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=action_bar_cart_image, using=id}"
+      ],
+      "result": "id: 39",
+      "subLogs": [],
+      "duration": 279
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.id: action_bar_cart_image",
+        "{\"id\":\"39\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 563
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//*[@name='a-autoid-0-announce' or @id='a-autoid-0-announce' or @value='a-autoid-0-announce'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 173
+    },
+    {
+      "commandName": "goBack",
+      "args": [
+        "{}"
+      ],
+      "result": "true",
+      "subLogs": [],
+      "duration": 179
+    },
+    {
+      "commandName": "goBack",
+      "args": [
+        "{}"
+      ],
+      "result": "true",
+      "subLogs": [],
+      "duration": 1523
+    },
+    {
+      "commandName": "goBack",
+      "args": [
+        "{}"
+      ],
+      "result": "true",
+      "subLogs": [],
+      "duration": 294
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='Casual shirts'], using=xpath}"
+      ],
+      "result": "id: 40",
+      "subLogs": [],
+      "duration": 1952
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='Casual shirts']",
+        "{\"id\":\"40\"}"
+      ],
+      "result": "clickElement:true",
+      "subLogs": [],
+      "duration": 1294
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 393
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 538
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 434
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 273
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 292
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 303
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 289
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 331
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 327
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 303
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 287
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 265
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 400
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 261
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 154
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 1323
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 1540
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 2844
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "An element could not be located on the page using the given search parameters. (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\n*** Element info: {Using=xpath, value=//android.view.View[@text='FOrmal']}",
+      "subLogs": [],
+      "duration": 1114
+    },
+    {
+      "commandName": "findElement",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "id: 41",
+      "subLogs": [],
+      "duration": 1691
+    },
+    {
+      "commandName": "clickElement",
+      "args": [
+        "By.xpath: //android.view.View[@text='FOrmal']",
+        "{\"id\":\"41\"}"
+      ],
+      "result": "UiSelector[CLASS=android.view.View, INSTANCE=52] (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b",
+      "subLogs": [],
+      "duration": 11450
+    },
+    {
+      "commandName": "findElements",
+      "args": [
+        "{value=//android.view.View[@text='FOrmal'], using=xpath}"
+      ],
+      "result": "[]",
+      "subLogs": [],
+      "duration": 415
+    }
+  ],
+  "checkPoints": [
+    {
+      "message": "user canot able to click on skipSignin button",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_er29eqaqnxf632883.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on homemenu",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_41weudr2qjgt32884.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user can able to click on Signin",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1ojtjp48w9i6o32885.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter 10 digits phone number",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1pf9mb4igtbzb32886.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user enter valid user id and password",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_1oaol86eyht8y32887.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user canot able to login successfully",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_1fm0sstg0z4k232888.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.xpath: //android.widget.Button[@text='Medium'] not present : Actual By.xpath: //android.widget.Button[@text='Medium'] not present",
+      "type": "Pass",
+      "screenshot": "../img/AddtoCart_12i5nkwgnma2j32889.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "clicking on select size options is selecting ",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "Expected By.xpath: //android.widget.Button[@text='Add to Cart'] not present : Actual By.xpath: //android.widget.Button[@text='Add to Cart'] present",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_ip3bdoc6atrz32890.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "clicking on add to cart button product is successfully adding on cart page",
+      "type": "Info",
+      "screenshot": "",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    },
+    {
+      "message": "user cannot able to add a product to addToCart ",
+      "type": "Fail",
+      "screenshot": "../img/AddtoCart_r2l6flrn3xp632891.png",
+      "duration": 0,
+      "threshold": 0,
+      "subCheckPoints": []
+    }
+  ],
+  "errorTrace": "org.openqa.selenium.NoSuchElementException: UiSelector[CLASS=android.view.View, INSTANCE=52] (WARNING: The server did not provide any stacktrace information)\nCommand duration or timeout: 0 milliseconds\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'\nSystem info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'\nDriver info: com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver\nCapabilities {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, databaseEnabled: false, desired: {appActivity: com.amazon.mShop.home.HomeA..., appPackage: in.amazon.mShop.android.sho..., automationName: Appium, browserName: , cssSelectorsEnabled: true, deviceName: MWS7N16730000589, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, newCommandTimeout: 120, platformName: Android, takesScreenshot: true}, deviceManufacturer: HTC, deviceModel: HTC One X9 dual sim, deviceName: LC683BK02769, deviceScreenSize: 1080x1920, deviceUDID: LC683BK02769, driverClass: io.appium.java_client.andro..., javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 120, platform: LINUX, platformName: Android, platformVersion: 6.0, takesScreenshot: true, warnings: {}, webStorageEnabled: false}\nSession ID: 59fb7152-6811-4f7c-bda2-2376695b3b0b\r\n\tat sun.reflect.GeneratedConstructorAccessor14.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)\r\n\tat org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)\r\n\tat org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:80)\r\n\tat org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:44)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:239)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:548)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebDriver.executeWitoutLog(QAFExtendedWebDriver.java:258)\r\n\tat com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.execute(QAFExtendedWebElement.java:263)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:83)\r\n\tat com.android.pages.AddToCartPage.addToCart(AddToCartPage.java:112)\r\n\tat com.android.tests.AddToCartTest.addtoCart(AddToCartTest.java:13)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:104)\r\n\tat org.testng.internal.Invoker.invokeMethod(Invoker.java:645)\r\n\tat org.testng.internal.Invoker.invokeTestMethod(Invoker.java:851)\r\n\tat org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1177)\r\n\tat org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:129)\r\n\tat org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:112)\r\n\tat org.testng.TestRunner.privateRun(TestRunner.java:781)\r\n\tat org.testng.TestRunner.run(TestRunner.java:635)\r\n\tat org.testng.SuiteRunner.runTest(SuiteRunner.java:387)\r\n\tat org.testng.SuiteRunner.runSequentially(SuiteRunner.java:382)\r\n\tat org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)\r\n\tat org.testng.SuiteRunner.run(SuiteRunner.java:289)\r\n\tat org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)\r\n\tat org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)\r\n\tat org.testng.TestNG.runSuitesSequentially(TestNG.java:1293)\r\n\tat org.testng.TestNG.runSuitesLocally(TestNG.java:1218)\r\n\tat org.testng.TestNG.runSuites(TestNG.java:1133)\r\n\tat org.testng.TestNG.run(TestNG.java:1104)\r\n\tat org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)\r\n\tat org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)\r\n\tat org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)\r\n"
+}

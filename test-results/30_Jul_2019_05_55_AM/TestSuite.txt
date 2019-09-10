@@ -1,0 +1,14 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 66.693 sec <<< FAILURE!
+userLogin(com.android.tests.UserLoginTest)  Time elapsed: 63.354 sec  <<< FAILURE!
+org.openqa.selenium.TimeoutException: Expected condition failed: Wait time out for By.id: action_bar_burger_icon to be visible (tried for 3 second(s) with 1000 MILLISECONDS interval)
+Build info: version: '3.14.0', revision: 'aacccce0', time: '2018-08-02T20:19:58.91Z'
+System info: host: 'ICPL13076', ip: '10.11.24.78', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_201'
+Driver info: driver.version: unknown
+	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:296)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:265)
+	at com.qmetry.qaf.automation.ui.webdriver.QAFExtendedWebElement.waitForVisible(QAFExtendedWebElement.java:514)
+	at com.android.pages.UserLoginPage.userLogin(UserLoginPage.java:64)
+	at com.android.tests.UserLoginTest.userLogin(UserLoginTest.java:13)
