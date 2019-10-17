@@ -1,8 +1,8 @@
-package com.android.tests;
+package com.amazon.tests;
 
 import org.testng.annotations.Test;
 
-import com.android.pages.UserLoginPage;
+import com.amazon.pages.UserLoginPage;
 
 public class UserLoginTest {
 	@Test

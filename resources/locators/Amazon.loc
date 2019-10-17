@@ -9,7 +9,7 @@ amazoncreateaccount.customername.txt=id=ap_customer_name
 amazoncreateaccount.phonenumber.txt=id=ap_phone_number
 amazoncreateaccount.email.txt=id=ap_email
 amazoncreateaccount.password.txt=id=ap_password
-amazoncreateaccount.continue.btn=id=continue
+amazoncreateaccount.continue.btn=id=continue     
 amazoncreateaccount.welcome.txt=xpath=//android.view.View[contains(@text,'Welcome')]
 verifymobilenumber.verifymobile.btn=auth-verify-button
 amazonmobilenumber.verifymobile.txt=//android.view.View[@text='Verify mobile number']

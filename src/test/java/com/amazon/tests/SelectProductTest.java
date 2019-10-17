@@ -1,9 +1,8 @@
-package com.android.tests;
+package com.amazon.tests;
 
 import org.testng.annotations.Test;
 
-
-import com.android.pages.SelectProductPage;
+import com.amazon.pages.SelectProductPage;
 
 public class SelectProductTest {
 	@Test

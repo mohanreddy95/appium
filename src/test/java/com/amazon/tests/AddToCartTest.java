@@ -1,8 +1,8 @@
-package com.android.tests;
+package com.amazon.tests;
 
 import org.testng.annotations.Test;
 
-import com.android.pages.AddToCartPage;
+import com.amazon.pages.AddToCartPage;
 import com.qmetry.qaf.automation.ui.WebDriverTestCase;
 
 public class AddToCartTest {

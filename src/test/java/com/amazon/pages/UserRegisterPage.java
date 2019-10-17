@@ -1,4 +1,4 @@
-package com.android.pages;
+package com.amazon.pages;
 
 import static org.junit.Assert.assertTrue;
 

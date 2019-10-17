@@ -1,4 +1,4 @@
-package com.android.pages;
+package com.amazon.pages;
 
 import org.openqa.selenium.Dimension;
 

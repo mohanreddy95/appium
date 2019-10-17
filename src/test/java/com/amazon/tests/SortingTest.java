@@ -1,8 +1,8 @@
-package com.android.tests;
+package com.amazon.tests;
 
 import org.testng.annotations.Test;
 
-import com.android.pages.SortingPage;
+import com.amazon.pages.SortingPage;
 
 public class SortingTest {
 	@Test

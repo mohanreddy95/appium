@@ -1,4 +1,4 @@
-package com.android.pages;
+package com.amazon.pages;
 
 import com.qmetry.qaf.automation.ui.WebDriverBaseTestPage;
 import com.qmetry.qaf.automation.ui.annotations.FindBy;
